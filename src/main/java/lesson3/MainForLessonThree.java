@@ -32,7 +32,7 @@ public class MainForLessonThree {
     }
 
     public static void Task2() {
-        int[] array = new int[100];
+        int[] array = new int[90];
         for (int i = 0; i < array.length; i++) {
             array[i] = i + 1;
             System.out.print(array[i] + " ");
