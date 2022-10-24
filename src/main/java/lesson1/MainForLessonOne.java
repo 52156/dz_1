@@ -9,9 +9,9 @@ public class MainForLessonOne {
     }
 
     private static void printThreeWords() {
-        System.out.println("Orange");
-        System.out.println("Banana");
-        System.out.println("Apple\n");
+        System.out.println("Orange2");
+        System.out.println("Banana2");
+        System.out.println("Apple2\n");
     }
     private static void checkSumSign() {
         int a = 2;
